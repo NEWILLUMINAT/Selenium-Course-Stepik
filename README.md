@@ -1,2 +1,3 @@
 # Selenium-Course-Stepik
 Learning...
+Здесь скорее всего будут храниться различные задачки с курса по Selenium
